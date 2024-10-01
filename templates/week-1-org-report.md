@@ -7,13 +7,13 @@ Note that if there are any issues filling this out with unresponsive group mates
 
 | | | 
 | --- | --- | 
-| Name of Project: | | 
-| Name of students in clinic: | [Name #1] | 
-| | [Name #2] | 
-| | [Name #3]
-| | [Name #4]
-| Name of Teaching Assistant (if applicable): | |
-| Name of your Faculty Mentor: | | 
+| Name of Project: | Fermi - Simulations | 
+| Name of students in clinic: | Aaron Zhang | 
+| | Isaac Harlem | 
+| | Kevin Lin
+| | Simon Katz
+| Name of Teaching Assistant (if applicable): | Ian Joffe |
+| Name of your Faculty Mentor: | Owen Melia, Alexander Bogatskiy | 
 
 
 ### Meeting Times
@@ -47,7 +47,6 @@ There are two types of meetings that you need to schedule: Your Weekly Mentor me
 | --- | --- | 
 | Meeting Day | | 
 | Meeting Time | | 
-
 
 | Option #2 | | 
 | --- | --- | 
